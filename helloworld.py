@@ -2,8 +2,9 @@
 print("Hello world")
 
 # Variable
-timischscheisse = 1
+timIschScheisse = true
 
-# if abfrage
-if timischscheisse == 1:
+# if schleife
+if timIschScheisse:
     print("tim isch scheisse is true")
+    print(timIschScheisse)
