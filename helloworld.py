@@ -2,7 +2,7 @@
 print("Hello world")
 
 # Variable
-timIschScheisse = true
+timIschScheisse = True
 
 # if schleife
 if timIschScheisse:
